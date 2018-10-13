@@ -17,7 +17,7 @@ values:
       from a single country. The name of the coffee is then usually the place it
       was grown to whatever degree available.
   - heading: Sustainable farming
-    imageUrl: /img/about-sustainable-farming.jpg
+    imageUrl: /img/fluffy-towel.jpg
     text: >
       Sustainable agriculture is farming in sustainable ways based on an
       understanding of ecosystem services, the study of relationships between
