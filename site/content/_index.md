@@ -15,9 +15,9 @@ intro:
   text: ''
 products:
   - image: /img/do-not-panic-7.jpg
-    text: 步枪
+    text: ''
   - image: /img/do-not-panic-4.png
-    text: 有失有得
+    text: ''
 values:
   heading: 我们的建议 - 一条毛巾
   text: 离星旅行，需要的，也许只有，一条柔软的毛巾...
