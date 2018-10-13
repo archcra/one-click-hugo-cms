@@ -11,8 +11,8 @@ blurb:
 
     Everyone there pursues one ambition: to leave.
 intro:
-  heading: 过去咋整
-  text: 网站、工具、画廊
+  heading: 不要恐慌
+  text: 工具、维景
 products:
   - image: /img/do-not-panic-7.jpg
     text: >-
