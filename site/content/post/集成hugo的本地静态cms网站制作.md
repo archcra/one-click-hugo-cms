@@ -3,13 +3,12 @@ title: 集成Hugo的本地静态CMS网站制作
 date: 2018-10-17T11:38:36.534Z
 description: |
   这次要放大招了
-  目标：gitlab集成的纯本地网站（除gitlab外，不依赖于其它网站资源）
-  主要技术：基于Hugo Themes（Jane），依赖NETLIFY CMS组件。
 ---
 ```
 本帖目标：gitlab集成的纯本地网站（除gitlab外，不依赖于其它网站资源）
 需要了解：gitlab web hook, docker, nodejs, pm2, nginx
 需要资源：服务器，域名，gitlab帐号
+新鲜玩意儿：Hugo Themes，NETLIFY CMS
 ```
 
 主要技术：基于Hugo Themes（Jane），依赖NETLIFY CMS组件。
