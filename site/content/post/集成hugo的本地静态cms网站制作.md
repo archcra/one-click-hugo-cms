@@ -123,7 +123,7 @@ app.get('/', (req, res) => {
 })
 
 app.post('/hook', (req, res) => {
-  shell.cd('/Users/holibut/gitlab/site-apps/utilities');
+  shell.cd('/opt/apps/netlifycms');
   if (shell.exec('git pull').code !== 0) {
   shell.echo('Error: Git commit failed');
   shell.exit(1);
