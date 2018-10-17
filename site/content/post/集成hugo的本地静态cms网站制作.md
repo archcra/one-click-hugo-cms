@@ -11,9 +11,6 @@ description: |
 新鲜玩意儿：Hugo Themes，NETLIFY CMS
 ```
 
-主要技术：基于Hugo Themes（Jane），依赖NETLIFY CMS组件。
-
-
 # 第一步，准备网站的基础资源 - 静态部份
 ## A. 使用docker容器来生成网站目录
 ```
